@@ -1,22 +1,34 @@
-=== Insert Headers and Footers by ashokkumawat ===
-Contributors: ashokkumawat, smub, deb255
-Tags: code, content, css, facebook pixel, footer, footer code, footer scripts, footers, google analytics, head, header, header code, header scripts, headers, insert, insert code, insert scripts, js, meta, meta tags, scripts, wpmu
-Requires at least: 4.6
+=== Insert Code in Header and Footer ===
+ 
+Contributors: ashokkumawatasm
+Tags: Add code in header, add code in footer, add code in header footer plugin
+Requires at least: 5.5
 Tested up to: 5.8
-Requires PHP: 5.2
-Stable tag: 1.6.0
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+  
 
-This plugin allows you to add extra scripts to the header and footer of your blog by hooking into wp_head and wp_footer.
-
+  
 == Description ==
+  
+Add custom html, css, jquery code in header footer 
+  
+== Installation ==
+  
+1. Upload the plugin folder to your /wp-content/plugins/ folder.
+1. Go to the **Plugins** page and activate the plugin.
+  
+== Frequently Asked Questions ==
+  
+= How do I use this plugin? =
+  
+You can Simply install this plugin see a menu in option "Insert Code in Header and Footer". Click on it and add code in header or footer section and submit.
+ 
+== Changelog ==
+= 1.0 =
+* Plugin released. 
 
-= Easily Insert Header and Footer Code =
-
-Insert Headers and Footers is a simple plugin that lets you insert code like Google Analytics, custom CSS, Facebook Pixel, and more to your WordPress site header and footer. No need to edit your theme files!
-
-The simple interface of the Insert Headers and Footers plugin gives you one place where you can insert scripts, rather than dealing with dozens of different plugins.
-
-= Features of Insert Headers and Footers =
 
 * Quick to set up
 * Simple to insert scripts
